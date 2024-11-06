@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+python-dotenv
+python-multipart
+sqlalchemy
+sqlmodel
